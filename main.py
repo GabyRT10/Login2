@@ -500,7 +500,7 @@ def interfaz_usuario():
     CTkLabel(main_content_frame, text=T("Usuario"), font=('sans serif', 20, 'bold'), text_color="white").grid(row=0, column=0, pady=(10, 5))
 
     try:
-        img = Image.open("Imagenes/usuario.png").resize((100, 100))
+        img = Image.open("Imagenes/usu.png").resize((100, 100))
         perfil_ctk = CTkImage(light_image=img, dark_image=img, size=(100, 100))
         CTkLabel(main_content_frame, image=perfil_ctk, text="").grid(row=1, column=0, pady=(5, 10))
     except Exception as e:
