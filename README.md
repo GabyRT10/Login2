@@ -2,7 +2,7 @@ DOCUMENTACIÓN DE LA APLICACIÓN
 
 VENTANA DE INICIO DE SESIÓN 
 
-En esta ventana, su función principal es cargar las demás interfaces si es que aún no están inicializadas, una vez iniciada la sesión, nos lleva a nuestra ventana principal, por ultimo, se lanza el monitoreo de la red, y se establece como un atributo del frame principal para facilitar el acceso
+En esta ventana, su función principal es cargar las demás interfaces si es que aún no están inicializadas, una vez iniciada la sesión, nos lleva a nuestra ventana principal, por último, se lanza el monitoreo de la red, y se establece como un atributo del frame principal para facilitar el acceso
 
 <img width="1000" height="551" alt="image" src="https://github.com/user-attachments/assets/08ac64f3-cec9-41ae-8cbd-d32ab22edfb3" />
 
@@ -11,7 +11,7 @@ En esta ventana, su función principal es cargar las demás interfaces si es que
 
 VENTANA PRINCIPAL 
 
-En esta, ya iniciamos mostrando nuestro menú, al cual se le agregaron iconos para una mejor interpretación, esto trabajandose con botones para poder navegar a las siguientes interfaces, asimismo se hace la declaración del panel de notificaciones que estará de manera centrada
+En esta, ya iniciamos mostrando nuestro menú, al cual se le agregaron iconos para una mejor interpretación, esto trabajándose con botones para poder navegar a las siguientes interfaces, asimismo se hace la declaración del panel de notificaciones que estará de manera centrada
 
 <img width="1107" height="1000" alt="image" src="https://github.com/user-attachments/assets/7201c6e5-0e40-490f-bee6-38c5dc2bf4f7" />
 <img width="1397" height="924" alt="image" src="https://github.com/user-attachments/assets/c0024c52-f9e2-48ba-bac2-a677ab585e34" />
@@ -21,7 +21,7 @@ En esta, ya iniciamos mostrando nuestro menú, al cual se le agregaron iconos pa
 
 VENTANA DE USUARIO 
 
-Nuevamente en esta interfaz se vuelve a poner a poner lo del menú, pues la idea es que este quede "fijo", se inicia creando el frame de usuario, se configura la cuadrícula, el tamaño, se vuelve a declarar el mismo menú que está en la interfaz interior, finalmente se declara el contenido principal, que es el perfil del usuario
+Nuevamente en esta interfaz se vuelve a poner lo del menú, pues la idea es que este quede "fijo", se inicia creando el frame de usuario, se configura la cuadrícula, el tamaño, se vuelve a declarar el mismo menú que está en la interfaz interior y finalmente se declara el contenido principal, que es el perfil del usuario
 
 <img width="1118" height="950" alt="image" src="https://github.com/user-attachments/assets/2119eafe-e437-4e25-8aac-459dc9740381" />
 
@@ -73,21 +73,32 @@ TODAS LAS VENTANAS TRADUCIDAS
 <img width="1600" height="846" alt="image" src="https://github.com/user-attachments/assets/2abe7612-c0d2-4b45-ba37-549d79454f8f" />
 <img width="1600" height="848" alt="image" src="https://github.com/user-attachments/assets/bb3b02f2-221f-4084-acee-920aa6a0c520" />
 
+DIAGRAMA UML
+
+<img width="1545" height="1390" alt="UML" src="https://github.com/user-attachments/assets/66885baf-bc37-473f-9ecb-5abdca5a9621" />
+
+FLUJO DE LA APLICACIÓN
+<img width="931" height="681" alt="Diagrama de flujo drawio" src="https://github.com/user-attachments/assets/bfd69374-0126-404b-9122-66331ac37e78" />
 
 BASE DE DATOS 
 
 Modelo Entidad-Relación
 
-<img width="1931" height="1040" alt="entidad_relacion drawio" src="https://github.com/user-attachments/assets/3ea370b3-3c6c-4a44-9409-693d43050dfe" />
+<img width="1931" height="1040" alt="entidad_relacion drawio (1)" src="https://github.com/user-attachments/assets/9a5157e3-5255-4e7e-baa0-bec0da4f0852" />
+
 
 Modelo Relacional 
 
-<img width="1071" height="781" alt="RelacionalProyecto drawio" src="https://github.com/user-attachments/assets/3d3a55a5-5002-4307-ae74-84e5e03d4a72" />
+<img width="1071" height="781" alt="RelacionalProyecto drawio (1)" src="https://github.com/user-attachments/assets/af8c4716-c0e2-4471-9119-91a7e6c8edfc" />
 
-DIAGRAMA UML
 
-<img width="1545" height="1390" alt="UML" src="https://github.com/user-attachments/assets/66885baf-bc37-473f-9ecb-5abdca5a9621" />
+INTEGRANTES DEL EQUIPO 
 
+Bárbara Lisset González Durán
+
+Ana Gabriela Romero Trujeque
+
+Cristian Romero Trujeque
 
 
 
