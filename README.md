@@ -82,8 +82,12 @@ Modelo Entidad-Relación
 
 Modelo Relacional 
 
-
 <img width="1071" height="781" alt="RelacionalProyecto drawio" src="https://github.com/user-attachments/assets/3d3a55a5-5002-4307-ae74-84e5e03d4a72" />
+
+DIAGRAMA UML
+
+<img width="1545" height="1390" alt="UML" src="https://github.com/user-attachments/assets/66885baf-bc37-473f-9ecb-5abdca5a9621" />
+
 
 
 
