@@ -31,6 +31,19 @@ Nuevamente en esta interfaz se vuelve a poner a poner lo del menú, pues la idea
 
 <img width="1919" height="1136" alt="image" src="https://github.com/user-attachments/assets/1db0892f-0559-49ec-89da-f2cfdc80274c" />
 
+BASE DE DATOS 
+
+Modelo Entidad-Relación
+
+<img width="1931" height="1040" alt="entidad_relacion drawio" src="https://github.com/user-attachments/assets/3ea370b3-3c6c-4a44-9409-693d43050dfe" />
+
+Modelo Relacional 
+
+
+<img width="1071" height="781" alt="RelacionalProyecto drawio" src="https://github.com/user-attachments/assets/3d3a55a5-5002-4307-ae74-84e5e03d4a72" />
+
+
+
 
 
 
